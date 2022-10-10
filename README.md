@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning [spring boot](https://spring.io/projects/spring-boot)
 ![image](https://blog.oxiane.com/wp-content/uploads/2021/02/spring_boog_400x400.png)
 - 💞️ I’m looking to collaborate on ndiombor project
+- 👨‍💻 my profile [khadimniass.me](https://khadimniass.me)
 - 📫 How to reach me khadim1.niass@ucad.edu.sn, niassssn@gmail.com
 - 📫 How to call me <a href="tel:+221771958713">+221 195 87 13</a> 
 
