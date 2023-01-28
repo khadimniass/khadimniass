@@ -1,11 +1,9 @@
 - <h1>👋 Hi, I’m Khadim NIASS ✨ </h1>
 - ‍💻 developper ON <a href="https://sonatel.sn/orange-finances-mobiles-senegal-et-baobab-senegal-institution-de-microfinances-innovent-et-proposent-du-credit-et-de-lepargne-par-orange-money/"> <img src="imgs/ofms.jpeg" align="center" width="40"></a>
-
+- 🔭 I’m currently working with `ANGULAR`, `LARAVEL`
 - 👀💞️ I’m interested in  web developer fullstack
 
 - 👨‍💻 my profile [khadimniass.me](https://khadimniass.me#projet)
-
-- 💞️ I’m working to collaborate on `ndiombor` project
 
 - ⚡ Fun fact `PHP` , `JAVA` , `JavaScript`
 
@@ -37,7 +35,7 @@
 <div align="left">
 <img style="width:100px; height:3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
 <img style="width:100px; height:3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-<img style="width:70px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain-wordmark.svg" />
+<img style="width:100px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
 <img style="width:100px; height:3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"/>
 <img style="width:70px;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg"/>
 <img style="width:100px; height:3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>
