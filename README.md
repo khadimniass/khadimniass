@@ -1,6 +1,5 @@
 - <h1>👋 Hi, I’m Khadim NIASS ✨ </h1>
-- ‍💻 developper ON
-<a href="https://livelearn.nl/">
+- ‍💻 developper ON  <a href="https://livelearn.nl/">
 <img src="imgs/livelearn.jpg" align="center" width="40"></a>
 <!-- <a href="https://sonatel.sn/orange-finances-mobiles-senegal-et-baobab-senegal-institution-de-microfinances-innovent-et-proposent-du-credit-et-de-lepargne-par-orange-money/">
 <img src="imgs/ofms.jpeg" align="center" width="40"></a> -->
