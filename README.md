@@ -3,12 +3,14 @@
 <img src="imgs/livelearn.jpg" align="center" width="40"></a>
 <!-- <a href="https://sonatel.sn/orange-finances-mobiles-senegal-et-baobab-senegal-institution-de-microfinances-innovent-et-proposent-du-credit-et-de-lepargne-par-orange-money/">
 <img src="imgs/ofms.jpeg" align="center" width="40"></a> -->
-- 🔭 I’m currently working with `ANGULAR`, `LARAVEL`
-- 👀💞️ I’m interested in  web developer fullstack
+
+- 🔭 I’m currently working with `PHP`, `Javascrip`, `intégration API`
+
+- 👀💞️ I’m interested in  web developer backend or fullstack
 
 - 👨‍💻 my profile [khadimniass.me](https://khadimniass.me#projet)
 
-- ⚡ Fun fact `PHP` , `JavaScript`, `JAVA`
+- ⚡ Fun fact `PHP` , `JavaScript` , `JAVA` , `typescript`
 
 - 📫 How to reach me 
 [khadim1.niass@ucad.edu.sn](mailto:khadim1.niass@ucad.edu.sn), 
