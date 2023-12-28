@@ -8,7 +8,7 @@
 
 - 👀💞️ I’m interested in  web developer backend or fullstack
 
-- 👨‍💻 my profile [khadimniass.me](https://khadimniass.me#projet)
+- 👨‍💻 my profile [khadim.live](https://khadim.live#projet)
 
 - ⚡ Fun fact `PHP` , `JavaScript` , `JAVA` , `typescript`
 
