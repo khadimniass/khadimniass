@@ -4,13 +4,13 @@
 <!-- <a href="https://sonatel.sn/orange-finances-mobiles-senegal-et-baobab-senegal-institution-de-microfinances-innovent-et-proposent-du-credit-et-de-lepargne-par-orange-money/">
 <img src="imgs/ofms.jpeg" align="center" width="40"></a> -->
 
-- 🔭 I’m currently working with `PHP`, `Javascrip`, `integration API`
+- 🔭 I’m currently working with : `Typescript`, `AdonisJs`, `Angular`, `Spring boot`, `Laravel` ,`PHP`, `Javascrip`, `integration API`
 
 - 👀💞️ I’m interested in  web developer backend or fullstack
 
 - 👨‍💻 my profile [khadim.live](https://khadim.live#projet)
 
-- ⚡ Fun fact `PHP` , `JavaScript` , `JAVA` , `typescript`
+- ⚡ Fun fact `Typescript`, `PHP` , `JavaScript` , `JAVA`
 
 - 📫 How to reach me 
 [khadim1.niass@ucad.edu.sn](mailto:khadim1.niass@ucad.edu.sn), 
